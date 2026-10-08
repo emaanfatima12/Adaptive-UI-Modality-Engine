@@ -46,14 +46,6 @@ No installation or build step is needed.
 - **Pen:** use a stylus on a supported device.
 - **Any mode without the hardware:** go to Settings, then Detection, and pick a mode to lock the layout.
 
-## Project structure
-
-```
-adaptive-ui-modality-engine/
-├── index.html   # the entire app (HTML, CSS and JavaScript)
-└── README.md
-```
-
 ## Technologies
 
 HTML, CSS (custom properties, `color-mix`, `:focus-visible`), and vanilla JavaScript (Pointer Events, `matchMedia`, `localStorage`).
